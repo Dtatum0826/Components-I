@@ -1,7 +1,7 @@
 import './menu.less'
 
 // This is the data we will be using, study it but don't change anything, yet.
-let menuItems = [
+export let menuItems = [
   'Students',
   'Faculty',
   "What's New",

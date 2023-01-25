@@ -2,7 +2,7 @@ import './article.less'
 // This is the data we will be using to create our articles. Look at it, then proceed to line 93.
 // OPTIONAL: if you're feeling adventurous, try to make this data an export from a different module, and import it here.
 // You can read about ES6 modules here: https://exploringjs.com/es6/ch_modules.html#sec_basics-of-es6-modules
-const data = [
+export  const data = [
   {
     title: 'BloomTech Students: "We\'re the best!"',
     date: 'Nov 5th, 2018',
